@@ -18,4 +18,6 @@
     <li>subtraction</li>
     
   </ul>
+  For live Demo 
+  <a href="https://singhthakuri.github.io/Calculator/">Click here </a>
 </div>
